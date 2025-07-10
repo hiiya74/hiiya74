@@ -2,6 +2,8 @@
 <h3 align="center">2nd year of B.E in AIML (Artificial Intelligence and Machine Learning)</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hiiya74&label=Profile%20views&color=0e75b6&style=flat" alt="hiiya74" /> </p>
+
 
 <h3 align="left">Connect with me 🤝:</h3>
 <p align="left">
